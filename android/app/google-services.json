@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "1065423324251",
-    "project_id": "busbooking-app",
-    "storage_bucket": "busbooking-app.appspot.com"
+    "project_number": "873862680169",
+    "project_id": "bus-ticket-booking-app-3e4c7",
+    "storage_bucket": "bus-ticket-booking-app-3e4c7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1065423324251:android:57f20bf622ebc782426b7e",
+        "mobilesdk_app_id": "1:873862680169:android:8c6a94c2557b143ff01cf8",
         "android_client_info": {
           "package_name": "com.example.bus_ticket_booking_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1065423324251-j59hp4c8jsfp6cs8ju3b8nn6i6ei8a6r.apps.googleusercontent.com",
+          "client_id": "873862680169-roqo8iaojol2f7e8k7qaqnovedsofjsr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyACW-yCtV7NuAsNDxVnHFEMgjg7jSMWAPI"
+          "current_key": "AIzaSyBajEN5ANpINOs31yQlRe0cQ3sW9Yd7E-c"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1065423324251-j59hp4c8jsfp6cs8ju3b8nn6i6ei8a6r.apps.googleusercontent.com",
+              "client_id": "873862680169-roqo8iaojol2f7e8k7qaqnovedsofjsr.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
