@@ -1,4 +1,4 @@
-import 'package:bus_ticket_booking_app/pages/loginpage.dart';
+import 'package:bus_ticket_booking_app/pages/Splash.dart';
 import 'package:bus_ticket_booking_app/widgets/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       themeMode: ThemeMode.light,
       theme: MyTheme.lighttheme(context),
       darkTheme: MyTheme.darktheme(context),
-      home: LoginPage(),
+      home: Splashscreen(),
       /*  initialRoute: "login",
       routes: {
         "/": (context) => LoginPage(),
